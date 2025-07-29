@@ -1,0 +1,1 @@
+/home/liuhao/Downloads/Lagranto/trunk.r47/goodies/trainfo.sh
